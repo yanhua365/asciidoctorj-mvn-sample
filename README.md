@@ -1,0 +1,1 @@
+# asciidoctorj mvn sample
